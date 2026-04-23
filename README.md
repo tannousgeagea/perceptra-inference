@@ -1,4 +1,4 @@
-# Perceptra Seg
+# Perceptra Inference
 
 Production-grade microservice (ONNX Runtime, YOLOv8/RF-DETR).
 
